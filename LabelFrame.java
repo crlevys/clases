@@ -13,7 +13,7 @@ public class LabelFrame  extends JFrame {
 		super("Prueba de JLabel");
 		setLayout(new FlowLayout() );
 		
-		etiqueta1 = new JLabel("Etiqueta con texto");
+		etiqueta1 = new JLabel("CAmbio este texto");
 		etiqueta1.setToolTipText( "Esta es una etiqueta" );
 		add( etiqueta1 );
 
